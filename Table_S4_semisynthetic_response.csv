@@ -1,0 +1,3 @@
+operator,mae_mean_wh,mae_sample_sd_wh,bias_mean_wh,bias_sample_sd_wh
+structured_response_operator,51.115,14.268,-0.873,0.706
+unconstrained_differentiation,NA,NA,-14.767,2.453

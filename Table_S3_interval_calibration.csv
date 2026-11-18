@@ -1,0 +1,9 @@
+quantity,method,mean,sample_sd,unit,n
+uncalibrated_coverage,RSEF,53.855,4.006,percent,9
+uncalibrated_coverage,without_residual_huber,57.234,10.402,percent,9
+calibrated_coverage,RSEF,95.264,0.657,percent,9
+calibrated_coverage,without_residual_huber,95.467,0.936,percent,9
+calibrated_width,RSEF,231.639,22.697,Wh,9
+calibrated_width,without_residual_huber,230.491,40.949,Wh,9
+interval_score,RSEF,511.474,49.132,Wh,9
+interval_score,without_residual_huber,512.789,64.965,Wh,9

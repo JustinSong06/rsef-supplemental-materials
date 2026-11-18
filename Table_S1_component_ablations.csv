@@ -1,0 +1,7 @@
+configuration,mae_mean_wh,mae_sample_sd_wh,rmse_mean_wh,rmse_sample_sd_wh,n,seeds
+fusion_path_full,36.423,1.249,79.881,1.689,3,42|43|44
+without_modality_dropout,38.799,0.561,81.045,2.632,3,42|43|44
+without_regime_objective,37.333,2.682,80.461,0.981,3,42|43|44
+without_reliability_calibration,38.015,3.336,80.863,0.559,3,42|43|44
+without_response_component,39.680,3.976,79.546,1.257,3,42|43|44
+without_uncertainty_head,39.017,3.236,80.931,2.027,3,42|43|44
